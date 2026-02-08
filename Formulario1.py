@@ -1,0 +1,6 @@
+print('FORMULARIO PARA EXAMEN DE ADMISIÓN')
+nombre=input(' INGRESA TU NOMBRE CON APELLIDOS')
+print(nombre)
+print('ESTA CORRECTO TU NOMBRE?')
+respuesta=input(' si/no ')
+print(respuesta)
